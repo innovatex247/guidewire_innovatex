@@ -4,7 +4,7 @@
 
 ## Overview
 
-The income of food delivery partners who work with Swiggy and Zomato depends on their total number of delivered orders. Their pay is not set and changes every day according to demand and how many hours they can work. Environmental disruptions, which include heavy rainfalls and extreme heat, and severe air pollution, and flooding events create major impacts on delivery operations and staff work schedules.
+The income of food delivery partners who work with Swiggy and Zomato depends on their total number of delivered orders. Their pay is not set and changes every day according to demand and how many hours they can work. Environmental disruptions such as heavy rainfall, extreme heat, severe air pollution, and flooding create major impacts on delivery operations and staff work schedules.
 
 The weekly income of delivery partners decreases by 20 to 30 percent during these disruptive events. The current insurance system lacks any specific protection for gig delivery workers who face income interruptions because of environmental factors.
 
@@ -60,12 +60,12 @@ GigShield AI considers earning-sensitive time periods such as:
 * Dinner peak hours
 
 If a disruption occurs during these peak periods, the system applies a multiplier to the payout.
-Example:
-Normal loss: ₹225
-Peak multiplier (×2): ₹450 payout
+**Example:**
+- Normal loss: ₹225
+- Peak multiplier (×2): ₹450 payout
 This ensures workers are compensated fairly when disruptions impact their highest earning windows.
 
-## Key features
+## Key Features
 
 ### Prediction of AI Earnings
 
@@ -112,15 +112,17 @@ After analyzing environmental data, the system forecasts:
 * Estimated weekly earnings: **₹2800**
 
 In light of this forecast, the system suggests:
-The standard plan is the suggested plan.
-* The weekly premium is ₹50.
+- Suggested Plan: Standard  
+- Weekly Premium: ₹50  
+
 The system automatically determines Ramesh's estimated income loss and transfers compensation via digital payment if environmental disruption takes place and delivery activity declines as anticipated.
 ---
 
 ## Advantages
 * Offers gig delivery workers **financial protection**
 * Makes use of **AI to forecast income disruptions**
-* Uses **automated payouts** to do away with manual insurance claims Through **community micro-insurance pooling, insurance is kept affordable.
+* Uses **automated payouts** to do away with manual insurance claims
+* Keeps insurance affordable through **community micro-insurance pooling**  
 * Encourages gig economy workers to have stable incomes
 
 ## Target Users
@@ -131,5 +133,4 @@ The system automatically determines Ramesh's estimated income loss and transfers
 ---
 
 ## Contributors
-
-Yasaswi Navulurunow
+Team InnovateX
