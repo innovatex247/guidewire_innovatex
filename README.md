@@ -39,7 +39,7 @@ The platform continuously monitors environmental conditions using external data 
 To keep the system affordable, GigShield AI uses a **community micro-insurance pool model**. Employees who work in the same geographic delivery zone contribute a small weekly premium to a shared insurance pool. This pooled fund is then used to compensate workers who have verified income loss during disruptions.
 
 By automating risk analysis, disruption detection, and payout processing, GigShield AI provides gig workers with **quick, transparent, and reliable income protection**.
----
+
 
 ## Community Micro-Insurance Pool 
 
@@ -116,7 +116,18 @@ In light of this forecast, the system suggests:
 - Weekly Premium: ₹50  
 
 The system automatically determines Ramesh's estimated income loss and transfers compensation via digital payment if environmental disruption takes place and delivery activity declines as anticipated.
----
+
+##  Business Model
+
+GigShield AI earns revenue through a **micro-insurance subscription model**:
+
+* **Weekly Premiums:** Workers pay ₹30–₹50/week for insurance coverage
+* **Platform Fee:** 5–10% commission from pooled contributions
+* **Dynamic Pricing:** Premiums adjust based on risk (higher risk → slightly higher premium)
+* **B2B Partnerships:** Collaborations with Swiggy, Zomato, and insurers
+* **Data Insights (Future):** Sell analytics on delivery trends and climate impact
+
+This ensures **affordable protection for workers** and **scalable revenue for the platform**.
 
 ## Advantages
 * Offers gig delivery workers **financial protection**
@@ -131,6 +142,7 @@ The system automatically determines Ramesh's estimated income loss and transfers
 * Employees in urban delivery zones who are impacted by environmental disturbances
 
 ---
+
 
 ## Contributors
 Team InnovateX
