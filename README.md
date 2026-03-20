@@ -100,7 +100,65 @@ GigShield AI integrates multiple ML models to ensure accurate prediction and fai
 * Bayesian Regression → Premium adjustment
 
 * Isolation Forest → Fraud detection
+##  AI Assistance (RAG + LLM)
+
+GigShield AI integrates a **Generative AI assistant powered by RAG (Retrieval-Augmented Generation) and LLMs** to provide intelligent and explainable support to users.
+
+###  Key Capabilities
+
+- **Explain Decisions**  
+  Provides clear explanations for payouts, rejections, and trust scores  
+
+- **Fraud Awareness**  
+  Helps users understand why certain activities are flagged as suspicious  
+
+- **Personalized Insights**  
+  Offers risk predictions and recommendations based on user behavior  
+
+- **Plan Guidance**  
+  Assists workers in selecting suitable insurance plans  
+
 These models work together to provide a data-driven, automated insurance system.
+## Adversarial Defense & Anti-Spoofing Strategy
+
+To prevent GPS spoofing and coordinated fraud, our system uses a **multi-layered AI-driven detection framework** combining behavioral, contextual, and group-level analysis.
+
+###  Key Signals
+
+- **Movement Analysis**  
+  Analyzes real-world movement patterns (pickup → transit → delivery)  
+  Flags users with static or unrealistic mobility during active deliveries  
+
+- **Delivery Validation**  
+  Flags unrealistic delivery time or frequency  
+
+- **Peer Comparison**  
+  Identifies abnormal behavior within the same zone  
+
+- **Group Fraud Detection**  
+  Detects coordinated attacks (same location, time, patterns)  
+
+- **Historical Analysis**  
+  Flags sudden anomalies in user behavior  
+
+- **Environmental Validation**  
+  Cross-checks claims with real-world conditions (e.g., weather)  
+
+
+###  Trust Score System
+
+All signals are combined into a **dynamic Trust Score**:
+
+-  **High Trust** → Approved  
+-  **Medium Trust** → Flagged  
+-  **Low Trust** → Rejected  
+
+
+
+### Outcome
+
+Ensures **accurate fraud detection**, prevents **mass spoofing attacks**, and maintains **fairness for genuine workers**.
+
 
 ## For Example:
 
@@ -141,7 +199,6 @@ This ensures **affordable protection for workers** and **scalable revenue for th
 * Gig workers who rely on delivery-based pay
 * Employees in urban delivery zones who are impacted by environmental disturbances
 
----
 
 
 ## Contributors
